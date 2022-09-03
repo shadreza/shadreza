@@ -1,10 +1,10 @@
 ### Assalamu Alaikum 👋
 
 
-- 🔭 I’m currently working on My Portfolio v-2.0
-- 🌱 I’m currently learning React Web Development
-- 👯 I’m looking to collaborate on Freelance Market Places
-- 🤔 I’m looking for help with How to start Freelancing as a Web Dev
+- 🔭 I’m currently working on ASP.NET & Angular project
+- 🌱 I’m currently learning ASP.NET for the backend part
+- 👯 I’m looking forward to have remote jobs
+- 🤔 I’m looking for help with How to become a qualitiful full-stack dev
 - 💬 Ask me about Web Dev, React or any tech related stuff
 - 📫 How to reach me: ... <br/>
             <br/>Contact - +8801580534330 <br/>
