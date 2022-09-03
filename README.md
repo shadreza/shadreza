@@ -1,11 +1,11 @@
 ### Assalamu Alaikum 👋
 
 
-- 🔭 I’m currently working on ASP.NET & Angular project
+- 🔭 I’m currently working on **ASP.NET** & **Angular** project
 - 🌱 I’m currently learning ASP.NET for the backend part
 - 👯 I’m looking forward to have remote jobs
-- 🤔 I’m looking for help with How to become a qualitiful full-stack dev
-- 💬 Ask me about Web Dev, React or any tech related stuff
+- 🤔 I’m looking for help with How to become a **qualitiful full-stack dev**
+- 💬 Ask me about Web Dev, **React, Vue, Angular** or any tech related stuff
 - 📫 How to reach me: ... <br/>
             <br/>Contact - +8801580534330 <br/>
             <br/>[Linkedin - @shadreza100](https://www.linkedin.com/in/shadreza100/) <br/>
