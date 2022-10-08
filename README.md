@@ -21,4 +21,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=shadreza&theme=vue-dark">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadreza&langs_count=20)](https://github.com/shadreza/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadreza&langs_count=20&layout=compact)](https://github.com/shadreza/github-readme-stats)
