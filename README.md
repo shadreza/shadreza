@@ -20,3 +20,5 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=shadreza&theme=vue-dark">
+
+[![Shad's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadreza)](https://github.com/shadreza/github-readme-stats)
