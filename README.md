@@ -21,4 +21,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=shadreza&theme=vue-dark">
 
-[![Shad's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadreza)](https://github.com/shadreza/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shadreza&repo=github-readme-stats)](https://github.com/shadreza/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadreza)](https://github.com/shadreza/github-readme-stats)
+
+[![Shad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shadreza)](https://github.com/shadreza/github-readme-stats)
