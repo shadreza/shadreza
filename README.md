@@ -1,8 +1,8 @@
 ### Assalamu Alaikum 👋
 
 
-- 🔭 I’m currently working on **ASP.NET** & **Angular** project
-- 🌱 I’m currently learning ASP.NET for the backend part
+- 🔭 I’m currently working on levelling up my **React Native** & **React** skills
+- 🌱 I’m currently learning React Native mobile development with GraphQL & many more ...
 - 👯 I’m looking forward to have remote jobs
 - 🤔 I’m looking for help with How to become a **qualitiful full-stack dev**
 - 💬 Ask me about Web Dev, **React, Vue, Angular** or any tech related stuff
