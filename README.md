@@ -19,7 +19,7 @@
 - ⚡ Fun fact: I love listening to the Holy Quran
 
 
-<img src="https://github-readme-stats-j05el383g.vercel.app/api/?username=shadreza&include_all_commits=true">
+<img src="https://github-readme-stats-j05el383g.vercel.app/api/?username=shadreza&show_icons=true&include_all_commits=true">
 <img src="https://github-readme-stats.vercel.app/api?username=shadreza&show_icons=true&theme=transparent">
 
 
