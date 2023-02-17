@@ -19,6 +19,6 @@
 - ⚡ Fun fact: I love listening to the Holy Quran
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=shadreza&theme=vue-dark&include_all_commits=true">
+<img src="[https://github-readme-stats.vercel.app/api?username=shadreza&theme=vue-dark&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=shadreza&theme=vue-dark&include_all_commits=true)">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadreza&langs_count=20&layout=compact)](https://github.com/shadreza/github-readme-stats)
