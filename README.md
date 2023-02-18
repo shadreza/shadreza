@@ -20,7 +20,6 @@
 
 
 <img src="https://github-readme-stats-j05el383g.vercel.app/api/?username=shadreza&show_icons=true&include_all_commits=true&theme=transparent">
-<img src="https://github-readme-stats.vercel.app/api?username=shadreza&show_icons=true&theme=transparent">
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadreza&langs_count=200&layout=compact)](https://github.com/shadreza/github-readme-stats)
