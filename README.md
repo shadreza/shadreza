@@ -19,7 +19,7 @@
 - ⚡ Fun fact: I love listening to the Holy Quran
 
 
-![GitHub Global Stats](https://github-readme-stats-j05el383g.vercel.app/api/?username=shadreza&show_icons=true&include_all_commits=true&theme=transparent)
+![GitHub Global Stats](https://github-readme-stats-j05el383g.vercel.app/api/?username=shadreza&show_icons=true&include_all_commits=true&theme=transparent) 
 
 ![Github Streak](https://streak-stats.demolab.com/?user=shadreza)
 
