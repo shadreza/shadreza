@@ -3,7 +3,7 @@
 
 - 🔭 Working on levelling up my **PHP** & **Laravel** skills
 - 🌱 Learning how to become a better full-stack master ...
-- 👯 Looking forward to have remote jobs
+- 🔥 Looking forward to have remote jobs
 - 📫 How to reach me: ... <br/>
             <br/>Contact - +8801580534330 <br/>
             <br/>[Linkedin - @shadreza100](https://www.linkedin.com/in/shadreza100/) <br/>
