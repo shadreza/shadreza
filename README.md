@@ -23,4 +23,4 @@
 
 ![Github Streak](https://streak-stats.demolab.com/?user=shadreza)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadreza&langs_count=200&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadreza&langs_count=20&layout=compact)
