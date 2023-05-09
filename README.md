@@ -1,17 +1,17 @@
-### Assalamu Alaikum 👋
+### السلام عليكم ورحمة الله وبركاته 👋
 
 
-- 🔭 I’m currently working on levelling up my **React Native** & **React** skills
-- 🌱 I’m currently learning React Native mobile development with GraphQL & many more ...
-- 👯 I’m looking forward to have remote jobs
-- 🤔 I’m looking for help with How to become a **qualitiful full-stack dev**
-- 💬 Ask me about Web Dev, **React, Vue, Angular** or any tech related stuff
+- 🔭 Working on levelling up my **PHP** & **Laravel** skills
+- 🌱 Learning how to become a better full-stack master ...
+- 👯 Looking forward to have remote jobs
 - 📫 How to reach me: ... <br/>
             <br/>Contact - +8801580534330 <br/>
             <br/>[Linkedin - @shadreza100](https://www.linkedin.com/in/shadreza100/) <br/>
+            [Twitter - @shadreza](https://twitter.com/shad_reza) <br/>
             [Facebook - @Muhammad Shad Reza](https://www.facebook.com/profile.php?id=100009732251679) <br/>
             [Github - @shadreza](https://github.com/shadreza) <br/>
             [Stopstalk - @shadreza](https://www.stopstalk.com/user/profile/shadreza) <br/>
+            [LeetCode - @shadreza](https://leetcode.com/shadreza/) <br/>
             <br/>[Portfolio - @shadreza](https://shadreza-portfolio-shadreza.vercel.app/) <br/>
             <br/>[Upwork - @shadreza](https://www.upwork.com/freelancers/~01623a467bb4b97e80) <br/>
 
