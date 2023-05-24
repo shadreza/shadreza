@@ -1,7 +1,7 @@
 # السلام عليكم ورحمة الله وبركاته 
 
 
-- 🔥 **Web Developer @ SEO Expate Bangladesh Ltd.**
+- 🔥 Love to solve and code problems
 - 🔭 Striving to be a remote dev
 - 🌱 Learning how to become a better Developer.
 
