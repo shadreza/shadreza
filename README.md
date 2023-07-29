@@ -16,7 +16,6 @@
             <br/>[Portfolio - @shadreza](https://shadreza-portfolio-shadreza.vercel.app/) <br/>
             <br/>[Upwork - @shadreza](https://www.upwork.com/freelancers/~01623a467bb4b97e80) <br/>
 
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: I love listening to the Holy Quran
 
 
