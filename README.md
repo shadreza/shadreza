@@ -25,3 +25,5 @@
 ![Shad Reza's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadreza&langs_count=20&layout=compact&theme=dracula)
 
 ![Shad Reza's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shadreza&theme=dracula)
+
+[![wakatime](https://wakatime.com/badge/user/fa5aec1d-8d9b-46d9-b1be-321ce433709e.svg)](https://wakatime.com/@fa5aec1d-8d9b-46d9-b1be-321ce433709e)
