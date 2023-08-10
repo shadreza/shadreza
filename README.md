@@ -18,8 +18,8 @@
 
 - ⚡ Fun fact: I love listening to the Holy Quran
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadreza&theme=dracula&show_icons=true)
+[![Shad Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadreza)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shadreza&theme=ambient-gradient)](https://git.io/streak-stats)
+[![Shad Reza's GitHub Streak](https://streak-stats.demolab.com/?user=shadreza&theme=ambient-gradient)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadreza&langs_count=20&layout=compact)
