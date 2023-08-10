@@ -20,8 +20,8 @@
 
 ![GitHub Global Stats](https://github-readme-stats-j05el383g.vercel.app/api/?username=shadreza&show_icons=true&include_all_commits=true&theme=dracula)
 
-![Shad Reza's GitHub Streak](https://streak-stats.demolab.com/?user=shadreza&theme=ambient-gradient)
+![Shad Reza's GitHub Streak](https://streak-stats.demolab.com/?user=shadreza&theme=dracula)
 
-![Shad Reza's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadreza&langs_count=20&layout=compact&theme=dracula)
+![Shad Reza's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadreza&langs_count=20&theme=dracula)
 
 [![Shad Reza's wakatime](https://wakatime.com/badge/user/fa5aec1d-8d9b-46d9-b1be-321ce433709e.svg)](https://wakatime.com/@fa5aec1d-8d9b-46d9-b1be-321ce433709e)
