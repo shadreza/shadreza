@@ -14,7 +14,7 @@
             [Stopstalk - @shadreza](https://www.stopstalk.com/user/profile/shadreza) <br/>
             [LeetCode - @shadreza](https://leetcode.com/shadreza/) <br/>
             <br/>[Portfolio - @shadreza](https://shadreza-portfolio-shadreza.vercel.app/) <br/>
-            <br/>[Upwork - @shadreza](https://www.upwork.com/freelancers/~01623a467bb4b97e80) <br/>
+            <br/>[Upwork - @shadreza](https://www.upwork.com/freelancers/~01394217970c69bef5) <br/>
 
 - ⚡ Fun fact: I love listening to the Holy Quran
 
