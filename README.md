@@ -22,6 +22,8 @@
 
 ![Shad Reza's GitHub Global Stats](https://github-readme-stats-j05el383g.vercel.app/api/?username=shadreza&show_icons=true&include_all_commits=true&theme=dracula)
 
+![Shad Reza's GitHub Yearly Stats](https://github-readme-stats.vercel.app/api?username=shadreza&show_icons=true&theme=dracula&rank_icon=percentile&show=reviews,prs_merged,prs_merged_percentage)
+
 ![Shad Reza's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadreza&langs_count=12&layout=compact&theme=dracula)
 
 [![Shad Reza's wakatime](https://wakatime.com/badge/user/fa5aec1d-8d9b-46d9-b1be-321ce433709e.svg)](https://wakatime.com/@fa5aec1d-8d9b-46d9-b1be-321ce433709e)
