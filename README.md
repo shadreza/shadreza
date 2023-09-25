@@ -19,7 +19,7 @@
 - ⚡ Fun fact: I love listening to the Holy Quran
 
 
-[![Shad Reza's GitHub Streak](https://streak-stats.demolab.com/?user=shadreza&theme=dracula)]
+![Shad Reza's GitHub Streak](https://streak-stats.demolab.com/?user=shadreza&theme=dracula)
 
 ![Shad Reza's Top Langs](https://github-readme-stats-shadreza.vercel.app/api/top-langs/?username=shadreza&langs_count=10&layout=compact&theme=dracula)
 
