@@ -10,11 +10,14 @@
 <span>A passionate fullstack developer from 🇧🇩</span>
 </h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shadreza&label=Profile%20views%20since%Sep%2027%202023&color=0e75b6&style=flat" alt="shadreza" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shadreza&label=Profile%20views%20since%20Sep%2027%202023&color=0e75b6&style=flat" alt="shadreza" /> </p>
+
+<p align="center"> <a href="https://wakatime.com/@fa5aec1d-8d9b-46d9-b1be-321ce433709e" target="blank"><img src="https://wakatime.com/badge/user/fa5aec1d-8d9b-46d9-b1be-321ce433709e.svg" alt="shad_reza" /></a> </p>
+
+<p align="center"> <a href="https://twitter.com/shad_reza" target="blank"><img src="https://img.shields.io/twitter/follow/shad_reza?logo=twitter&style=for-the-badge" alt="shad_reza" /></a> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shadreza" alt="shadreza" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/shad_reza" target="blank"><img src="https://img.shields.io/twitter/follow/shad_reza?logo=twitter&style=for-the-badge" alt="shad_reza" /></a> </p>
 
 - 🔭 I’m currently working on **CrowdSourcing App For An Agro Business**
 
@@ -51,7 +54,6 @@
 
 <h3 align="left">Skill Belt :</h3>
 <p align="left">
-<br />
 <h6>Frontend</h6>
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg"
