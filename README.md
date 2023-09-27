@@ -7,8 +7,11 @@
 <span> Shad Reza < / > Passionate Fullstack Developer 🇧🇩 </span>
 </h2>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shadreza&label=Profile%20views%20since%20Sep%2027%202023&color=0e75b6&style=flat" alt="shadreza" /> </p>
-<p align="center"> <a href="https://wakatime.com/@fa5aec1d-8d9b-46d9-b1be-321ce433709e" target="blank"><img src="https://wakatime.com/badge/user/fa5aec1d-8d9b-46d9-b1be-321ce433709e.svg" alt="shad_reza" /></a> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=shadreza&label=Profile%20views%20since%20Sep%2027%202023&color=0e75b6&style=flat" alt="shadreza" />
+  <span>              </span>
+  <a href="https://wakatime.com/@fa5aec1d-8d9b-46d9-b1be-321ce433709e" target="blank"><img src="https://wakatime.com/badge/user/fa5aec1d-8d9b-46d9-b1be-321ce433709e.svg" alt="shad_reza" /></a> 
+</p>
 
 
 <h3 align="center">Connect with me</h3>
@@ -35,6 +38,8 @@
 
 <br/>
 
+
+<h3 align="center">Github Stats</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadreza&theme=dracula" alt="shadreza has a great coding history" />
 </p>
@@ -55,24 +60,36 @@
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shadreza" alt="shadreza" /></a></p>
 
-- 🔭 I’m currently working on **CrowdSourcing App For An Agro Business**
+<br/>
+<br/>
+<h3 align="center">About Me</h3>
+<p align="center">
+🔭 I’m currently working on <strong>CrowdSourcing App For An Agro Business</strong>
+</p>
+<p align="center">
+🌎 I’m looking to collaborate with <strong>FullStack Teams</strong>
+</p>
+<p align="center">
+👨‍💻 All of my projects are available at my <a href="https://shadreza-portfolio-shadreza.vercel.app/"><strong>Portfolio</strong></a>
+</p>
+<p align="center">
+📝 I regularly write articles on my <a href="https://medium.com/@shadreza100"><strong>Medium Wall</strong></a>
+</p>
+<p align="center">
+💬 Ask me about <strong>React.js, MERN, FullStack Development</strong>
+</p>
+<p align="center">
+📫 How to reach me <a href="mailto:shadreza100@gmail.com"><strong>shadreza100@gmail.com</strong></a>
+</p>
+<p align="center">
+📄 Know about my experiences from my <a href="https://drive.google.com/file/d/1mMuG3Gwh-UpvWjhlpPG-_aua2G36N-uk/view"><strong>Resume</strong></a>
+</p>
+<p align="center">
+📞 Call me - <strong>+8801580534330 🇧🇩</strong>
+</p>
 
-- 🌎 I’m looking to collaborate on **FullStack Teams**
-
-- 👨‍💻 All of my projects are available at my [Portfolio](https://shadreza-portfolio-shadreza.vercel.app/)
-
-- 📝 I regularly write articles on my [Medium Wall](https://medium.com/@shadreza100)
-
-- 💬 Ask me about **React.js, MERN, FullStack Development**
-
-- 📫 How to reach me **shadreza100@gmail.com**
-
-- 📄 Know about my experiences from my [Resume](https://drive.google.com/file/d/1mMuG3Gwh-UpvWjhlpPG-_aua2G36N-uk/view)
-
-- 📞 Call me - +8801580534330 🇧🇩
-
-
-
+<br/>
+<br/>
 <h3 align="center">Skill Belt</h3>
 <p align="center">
 <!-- <br/> -->
