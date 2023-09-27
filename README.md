@@ -1,30 +1,59 @@
-<h1 align="center">
-<span>السلام عليكم ورحمة الله وبركاته</span>
-<br/>
-<span>Peace be upon you and God's mercy and blessings</span>
-</h1>
-
 <h3 align="center">
-<span>This is Shad Reza</span>
-<br/>
-<span>A passionate fullstack developer from 🇧🇩</span>
+<span>السلام عليكم ورحمة الله وبركاته</span>
+<span>Peace be upon</span>
 </h3>
+
+<h2 align="center">
+<span> Shad Reza < / > Passionate Fullstack Developer 🇧🇩 </span>
+</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shadreza&label=Profile%20views%20since%20Sep%2027%202023&color=0e75b6&style=flat" alt="shadreza" /> </p>
 <p align="center"> <a href="https://wakatime.com/@fa5aec1d-8d9b-46d9-b1be-321ce433709e" target="blank"><img src="https://wakatime.com/badge/user/fa5aec1d-8d9b-46d9-b1be-321ce433709e.svg" alt="shad_reza" /></a> </p>
-<p align="center"><a href="https://twitter.com/shad_reza" target="blank"><img src="https://img.shields.io/twitter/follow/shad_reza?logo=twitter&style=for-the-badge" alt="shad_reza" /></a></p>
+
+
+<h3 align="center">Connect with me</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/shadreza100" target="blank"><img src="https://img.shields.io/badge/shadreza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shadreza100" /></a>
+  <a href="mailto:shadreza100@gmail.com" target="blank"><img src="https://img.shields.io/badge/SHADREZA100-C71610?style=for-the-badge&logo=gmail&logoColor=white" alt="shadreza100@gmail.com" /></a>
+  <a href="https://twitter.com/shad_reza" target="blank"><img src="https://img.shields.io/badge/ShadReza-000000?style=for-the-badge&logo=x&logoColor=white" alt="shad_reza" /></a>
+  <a href="https://www.youtube.com/@skilllamp" target="blank"><img src="https://img.shields.io/badge/SkillLamp-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="skilllamp" /></a>
+  <a href="https://www.upwork.com/freelancers/~01394217970c69bef5" target="blank"><img src="https://img.shields.io/badge/ShadReza-16A302?style=for-the-badge&logo=Upwork&logoColor=white" alt="shadreza" /></a>
+  <a href="https://medium.com/@shadreza100" target="blank"><img src="https://img.shields.io/badge/shadreza100-FFFFFF?style=for-the-badge&logo=medium&logoColor=black" alt="@shadreza100" /></a>
+</p>
+
+<p align="center">
+  <a href="https://shadreza-portfolio-shadreza.vercel.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio"  /></a>
+  <a href="https://drive.google.com/file/d/1mMuG3Gwh-UpvWjhlpPG-_aua2G36N-uk/view" target="blank"><img src="https://img.shields.io/badge/RESUME-E55604?style=for-the-badge&logoColor=white" alt="resume"  /></a>
+</p>
+
+<p align="center">
+  <a href="https://codeforces.com/profile/shadreza" target="blank"><img   src="https://img.shields.io/badge/shadreza-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="shadreza"  /></a>
+  <a href="https://www.leetcode.com/shadreza" target="blank"><img  src="https://img.shields.io/badge/-shadreza-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="shadreza"  /></a>
+  <a href="https://www.codechef.com/users/shadrezacoder" target="blank"><img src="https://img.shields.io/badge/-shadrezacoder-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="shadrezacoder"  /></a>
+  <a href="https://www.hackerrank.com/shadrezacoder" target="blank"><img  src="https://img.shields.io/badge/-shadrezacoder-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="shadrezacoder" /></a>
+</p>
+
+  
+
+  
+  
 
 <br/>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadreza&theme=dracula" alt="shadreza has a great coding history" />
-  <img src="https://github-readme-stats.vercel.app/api?username=shadreza&rank_icon=github&theme=moltack" alt="shadreza has a great coding history" /></p>
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shadreza&theme=moltack" alt="shadreza has a great github history"/>
+</p>
+<p align="center"> 
+
+  <img src="https://github-readme-stats.vercel.app/api?username=shadreza&rank_icon=github&theme=date_night" alt="shadreza has a great coding history" />
+  
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shadreza&langs_count=10&show_icons=true&locale=en&layout=compact&theme=moltack" alt="shadreza is a great coder with many tools in his programming belt"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shadreza&theme=moltack" alt="shadreza has a great language history"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shadreza&theme=date_night" alt="shadreza has a great github history"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shadreza&langs_count=10&show_icons=true&locale=en&layout=compact&theme=date_night" alt="shadreza is a great coder with many tools in his programming belt"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shadreza&theme=date_night" alt="shadreza has a great language history"/>
 </p>
 
 <br/>
@@ -47,21 +76,6 @@
 
 - 📞 Call me - +8801580534330 🇧🇩
 
-- 🤝 Hire me @ [Upwork - Shad R.](https://www.upwork.com/freelancers/~01394217970c69bef5)
-
-- ⚡ Fun fact **I love to listen to the Quran...**
-
-<h3 align="center">Connect with me</h3>
-<p align="center">
-<a href="https://twitter.com/shad_reza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shad_reza" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shadreza100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shadreza100" height="30" width="40" /></a>
-<a href="https://medium.com/@shadreza100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shadreza100" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@skilllamp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="skill lamp" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shadrezacoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shadrezacoder" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shadrezacoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shadrezacoder" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/shadreza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shadreza" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shadreza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shadreza" height="30" width="40" /></a>
-</p>
 
 
 <h3 align="center">Skill Belt</h3>
