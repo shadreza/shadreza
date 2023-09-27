@@ -33,7 +33,7 @@
 
 - 🔭 I’m currently working on **CrowdSourcing App For An Agro Business**
 
-- 👯 I’m looking to collaborate on **FullStack Teams**
+- 🌎 I’m looking to collaborate on **FullStack Teams**
 
 - 👨‍💻 All of my projects are available at my [Portfolio](https://shadreza-portfolio-shadreza.vercel.app/)
 
@@ -51,8 +51,8 @@
 
 - ⚡ Fun fact **I love to listen to the Quran...**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me</h3>
+<p align="center">
 <a href="https://twitter.com/shad_reza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shad_reza" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shadreza100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shadreza100" height="30" width="40" /></a>
 <a href="https://medium.com/@shadreza100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shadreza100" height="30" width="40" /></a>
@@ -64,9 +64,11 @@
 </p>
 
 
-<h3 align="left">Skill Belt :</h3>
-<p align="left">
-<h6>Frontend</h6>
+<h3 align="center">Skill Belt</h3>
+<p align="center">
+<!-- <br/> -->
+<!-- <strong>Frontend</strong> -->
+<br/>
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg"
 alt="angularjs" width="40" height="40" /> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
@@ -84,13 +86,25 @@ width="40" height="40" /> </a><a href="https://tailwindcss.com/" target="_blank"
 src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
 height="40" /> </a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-alt="vuejs" width="40" height="40" /> </a><br />
-<h6>Dataisualization</h6>
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img
-src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" /> </a><a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img
+alt="vuejs" width="40" height="40" /> </a><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+alt="express" width="40" height="40" /> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+alt="nodejs" width="40" height="40" /> </a><a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
+alt="laravel" width="40" height="40" /> </a><a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img
+src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" /> </a><a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" /> </a><a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js"
 width="40" height="40" /> </a><br />
-<h6>Programminganguages</h6>
+<!-- <br/> -->
+<!-- <strong>Backend</strong> -->
+<!-- <br/ -->
+<!-- <br/> -->
+<!-- <strong>Data Visualisation</strong> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <strong>Programming Languages</strong> -->
+<br/>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
 height="40" /> </a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
@@ -107,16 +121,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
 alt="python" width="40" height="40" /> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
 alt="typescript" width="40" height="40" /> </a><br />
-<h6>Backend</h6>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-alt="express" width="40" height="40" /> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-alt="nodejs" width="40" height="40" /> </a><a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
-alt="laravel" width="40" height="40" /> </a><a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img
-src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" /> </a><br />
-<h6>Database</h6>
+<!-- <br/> -->
+<!-- <strong>Database</strong> -->
+<br/>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img
 src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /> </a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
@@ -132,7 +139,9 @@ src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" w
 </a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
 src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
 </a><br />
-<h6>Tools</h6>
+<!-- <br/> -->
+<!-- <strong>Tools</strong> -->
+<br/>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img
 src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /> </a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img
 src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender"
@@ -150,7 +159,9 @@ src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="post
 height="40" />
 </a><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img
 src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a><br />
-<h6>AI ML</h6>
+<!-- <br/> -->
+<!-- <strong>AI & ML</strong> -->
+<br/>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img
 src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" /> </a><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img
 src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
