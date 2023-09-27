@@ -16,9 +16,16 @@
 
 <br/>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shadreza&theme=dracula" alt="shadreza has a great coding history" /><img src="https://github-readme-stats.vercel.app/api?username=shadreza&rank_icon=github&theme=dracula" alt="shadreza has a great coding history" /></p>
-<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shadreza&theme=dracula" alt="shadreza has a great github history" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shadreza&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dracula" alt="shadreza is a great coder with many tools in his programming belt" /><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shadreza&theme=dracula" alt="shadreza has a great language history" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadreza&theme=dracula" alt="shadreza has a great coding history" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shadreza&rank_icon=github&theme=dracula" alt="shadreza has a great coding history" /></p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shadreza&theme=dracula" alt="shadreza has a great github history"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shadreza&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dracula" alt="shadreza is a great coder with many tools in his programming belt"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shadreza&theme=dracula" alt="shadreza has a great language history"/>
+</p>
 
 <br/>
 
