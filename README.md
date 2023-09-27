@@ -17,7 +17,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadreza" alt="shadreza has a great coding history" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadreza&theme=dracula" alt="shadreza has a great coding history" />
   <img src="https://github-readme-stats.vercel.app/api?username=shadreza&rank_icon=github&theme=moltack" alt="shadreza has a great coding history" /></p>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shadreza&theme=moltack" alt="shadreza has a great github history"/>
