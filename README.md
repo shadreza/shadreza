@@ -152,8 +152,6 @@ height="40" /> </a></p>
 
 <br/>
 <br/>
-<br/>
-<br/>
 
 <h3>Github Stats</h3>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shadreza&theme=dark" alt="shadreza has a great coding history" /><img src="https://github-readme-stats.vercel.app/api?username=shadreza&rank_icon=github&theme=dracula" alt="shadreza has a great coding history" /></p>
