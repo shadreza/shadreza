@@ -4,20 +4,25 @@
 <span>Peace be upon you and God's mercy and blessings</span>
 </h1>
 
-<h1 align="center">
+<h3 align="center">
 <span>This is Shad Reza</span>
 <br/>
 <span>A passionate fullstack developer from 🇧🇩</span>
-</h1>
+</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shadreza&label=Profile%20views%20since%20Sep%2027%202023&color=0e75b6&style=flat" alt="shadreza" /> </p>
-
 <p align="center"> <a href="https://wakatime.com/@fa5aec1d-8d9b-46d9-b1be-321ce433709e" target="blank"><img src="https://wakatime.com/badge/user/fa5aec1d-8d9b-46d9-b1be-321ce433709e.svg" alt="shad_reza" /></a> </p>
+<p align="center"><a href="https://twitter.com/shad_reza" target="blank"><img src="https://img.shields.io/twitter/follow/shad_reza?logo=twitter&style=for-the-badge" alt="shad_reza" /></a></p>
 
-<p align="center"> <a href="https://twitter.com/shad_reza" target="blank"><img src="https://img.shields.io/twitter/follow/shad_reza?logo=twitter&style=for-the-badge" alt="shad_reza" /></a> </p>
+<br/>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shadreza" alt="shadreza" /></a> </p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shadreza&theme=dracula" alt="shadreza has a great coding history" /><img src="https://github-readme-stats.vercel.app/api?username=shadreza&rank_icon=github&theme=dracula" alt="shadreza has a great coding history" /></p>
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shadreza&theme=dracula" alt="shadreza has a great github history" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shadreza&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dracula" alt="shadreza is a great coder with many tools in his programming belt" /><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shadreza&theme=dracula" alt="shadreza has a great language history" /></p>
 
+<br/>
+
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shadreza" alt="shadreza" /></a></p>
 
 - 🔭 I’m currently working on **CrowdSourcing App For An Agro Business**
 
@@ -149,11 +154,3 @@ src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small
 width="40" height="40" /> </a><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img
 src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"
 height="40" /> </a></p>
-
-<br/>
-<br/>
-
-<h3>Github Stats</h3>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shadreza&theme=dark" alt="shadreza has a great coding history" /><img src="https://github-readme-stats.vercel.app/api?username=shadreza&rank_icon=github&theme=dracula" alt="shadreza has a great coding history" /></p>
-<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shadreza&theme=dracula" alt="shadreza has a great github history" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shadreza&langs_count=10&show_icons=true&locale=en&layout=compact" alt="shadreza is a great coder with many tools in his programming belt" /><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shadreza&theme=dracula" alt="shadreza has a great language history" /></p>
