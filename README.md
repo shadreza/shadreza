@@ -41,7 +41,7 @@
 
 <h3 align="center">Github Stats</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadreza&theme=dracula" alt="shadreza has a great coding history" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadreza&theme=dracula" />
 </p>
 <p align="center"> 
 
