@@ -19,7 +19,7 @@
   <a href="https://linkedin.com/in/shadreza100" target="_blank"><img src="https://img.shields.io/badge/shadreza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shadreza100" /></a>
   <a href="mailto:shadreza100@gmail.com" target="_blank"><img src="https://img.shields.io/badge/SHADREZA100-C71610?style=for-the-badge&logo=gmail&logoColor=white" alt="shadreza100@gmail.com" /></a>
   <a href="https://twitter.com/shad_reza" target="_blank"><img src="https://img.shields.io/badge/ShadReza-000000?style=for-the-badge&logo=x&logoColor=white" alt="shad_reza" /></a>
-  <a href="https://www.youtube.com/@skilllamp" target="_blank"><img src="https://img.shields.io/badge/SkillLamp-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="skilllamp" /></a>
+  <a href="https://www.youtube.com/channel/UCDPTLDkQvAftpmLYZtZyZWQ" target="_blank"><img src="https://img.shields.io/badge/SkillLamp-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="skilllamp" /></a>
   <a href="https://www.upwork.com/freelancers/~01394217970c69bef5" target="_blank"><img src="https://img.shields.io/badge/ShadReza-16A302?style=for-the-badge&logo=Upwork&logoColor=white" alt="shadreza" /></a>
   <a href="https://medium.com/@shadreza100" target="_blank"><img src="https://img.shields.io/badge/shadreza100-FFFFFF?style=for-the-badge&logo=medium&logoColor=black" alt="@shadreza100" /></a>
 </p>
