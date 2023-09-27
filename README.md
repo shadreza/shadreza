@@ -1,6 +1,6 @@
 <h3 align="center">
 <span>السلام عليكم ورحمة الله وبركاته</span>
-<span>Peace be upon</span>
+<span>Peace be upon you</span>
 </h3>
 
 <h2 align="center">
@@ -32,11 +32,6 @@
   <a href="https://www.codechef.com/users/shadrezacoder" target="blank"><img src="https://img.shields.io/badge/-shadrezacoder-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="shadrezacoder"  /></a>
   <a href="https://www.hackerrank.com/shadrezacoder" target="blank"><img  src="https://img.shields.io/badge/-shadrezacoder-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="shadrezacoder" /></a>
 </p>
-
-  
-
-  
-  
 
 <br/>
 
