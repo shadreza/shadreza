@@ -10,7 +10,7 @@
 <span>A passionate fullstack developer from 🇧🇩</span>
 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shadreza&label=Profile%20views%20since%Sep%2027%202023&color=0e75b6&style=flat" alt="shadreza" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shadreza&label=Profile%20views%20since%20Sep%2027%202023&color=0e75b6&style=flat" alt="shadreza" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shadreza" alt="shadreza" /></a> </p>
 
