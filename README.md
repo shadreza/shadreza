@@ -46,7 +46,6 @@
 <p align="center"> 
 
   <img src="https://github-readme-stats.vercel.app/api?username=shadreza&rank_icon=github&theme=date_night" alt="shadreza has a great coding history" />
-  <img src="https://github-readme-stats.vercel.app/api?username=shadreza&rank_icon=github&theme=date_night&include_all_commits=true" alt="shadreza has a great coding history" />
   
 </p>
 <p align="center">
