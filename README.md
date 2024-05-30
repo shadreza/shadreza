@@ -4,7 +4,7 @@
 </h3>
 
 <h2 align="center">
-<span> Shad Reza < / > Passionate Fullstack Developer 🇧🇩 </span>
+<span> Shad Reza < / > Passionate Software Engineer from 🇧🇩 </span>
 </h2>
 
 <p align="center"> 
