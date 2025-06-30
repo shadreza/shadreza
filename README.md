@@ -31,7 +31,7 @@
 - ☁️ Currently focused on **DevOps, AWS, and Infrastructure Automation**
 - 🛠️ Building serverless apps, pipelines, and scalable cloud-native solutions
 - 🧠 Exploring **AI/ML integration** in DevOps workflows
-- ✍️ Sharing stories under _DevOps Diaries_ on [Medium](https://medium.com/@shadreza100)
+- ✍️ Sharing stories under _DevOps Stories_ on [Hashnode]([https://medium.com/@shadreza100](https://devops-stories.hashnode.dev/))
 
 ---
 
